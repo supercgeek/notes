@@ -7,8 +7,11 @@
 //
 
 import Cocoa
+import Foundation
+
 
 class ViewController: NSViewController {
+        print("hello")
 
     override func viewDidLoad() {
         super.viewDidLoad()
