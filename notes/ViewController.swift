@@ -4,15 +4,13 @@
 //
 //  Created by Alex Fratila on 2/6/16.
 //  Copyright © 2016 Alex Fratila. All rights reserved.
-//
+// testing again
 
 import Cocoa
-import Foundation
-
 
 class ViewController: NSViewController {
-        print("hello")
-
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
